@@ -1,0 +1,179 @@
+// moldes activos y propios al mes 02.2021
+
+[
+	{
+		"name": "Envase redondo 18ml 3 cav PVC",
+		"drawing": "2829",
+		"mold": "8029109",
+		"depth": "65.64",
+		"thread": "R15B"
+	},
+	{
+		"name": "Envase redondo concavo 5ml",
+		"drawing": "2908",
+		"mold": "8041610",
+		"depth": "74.1",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase redondo 20ml 3 cav",
+		"drawing": "3003",
+		"mold": "8054513",
+		"depth": "101",
+		"thread": "R15A"
+	},
+	{
+		"name": "Envase redondo convexo msc ariane",
+		"drawing": "3093",
+		"mold": "8066814",
+		"depth": "86.6",
+		"thread": "R15C"
+	},
+	{
+		"name": "Envase redondo 20ml sone products",
+		"drawing": "3123",
+		"mold": "8054513",
+		"depth": "101",
+		"thread": "R15A"
+	},
+	{
+		"name": "Envase redondo 4ml sone products",
+		"drawing": "3126",
+		"mold": "8017707",
+		"depth": "-",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase redondo 8ml exs PETG",
+		"drawing": "3205",
+		"mold": "8069415",
+		"depth": "94.5",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase redondo 20ml",
+		"drawing": "3245",
+		"mold": "8054513",
+		"depth": "101",
+		"thread": "R15A"
+	},
+	{
+		"name": "Envase redondo convexo msc ariane PVC",
+		"drawing": "3247",
+		"mold": "8066814",
+		"depth": "86.6",
+		"thread": "R15C"
+	},
+	{
+		"name": "Envase redondo conico 3ml PETG",
+		"drawing": "3290",
+		"mold": "8017807",
+		"depth": "40",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase redondo conico 4ml exs PETG",
+		"drawing": "3292",
+		"mold": "8017707",
+		"depth": "50",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase redondo concavo 5ml PETG",
+		"drawing": "3309",
+		"mold": "8041610",
+		"depth": "74.1",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase redondo 6ml ins",
+		"drawing": "3315",
+		"mold": "8063114",
+		"depth": "72.7",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase redondo 8ml PVC",
+		"drawing": "3320",
+		"mold": "8069415",
+		"depth": "94.5",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase redondo 5ml 2017 PVC",
+		"drawing": "3327",
+		"mold": "8081917",
+		"depth": "66.4",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase cuadrado 6ml exs 3 cav",
+		"drawing": "3339",
+		"mold": "8083017",
+		"depth": "67.8",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase cuadrado 10ml PETG",
+		"drawing": "3351",
+		"mold": "8072015",
+		"depth": "72",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase redondo 5ml 2017 PETG",
+		"drawing": "3377",
+		"mold": "8081917",
+		"depth": "66.4",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase cuadrado 6ml exs 3 cav PETG",
+		"drawing": "3406",
+		"mold": "8083017",
+		"depth": "67.8",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase redondo 6ml ins 2017",
+		"drawing": "3424",
+		"mold": "8089317",
+		"depth": "72.7",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase redondo lpg 10ml nat PETG",
+		"drawing": "3594",
+		"mold": "0005",
+		"depth": "72",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase redondo conico 3ml PET",
+		"drawing": "3613",
+		"mold": "8017807",
+		"depth": "40",
+		"thread": "R11A"
+	},
+	{
+		"name": "Envase redondo largo 22.4ml PVC",
+		"drawing": "3673",
+		"mold": "8106820",
+		"depth": "80.8",
+		"thread": "R15C"
+	},
+	{
+		"name": "Envase redondo largo 22.4ml PETG",
+		"drawing": "3674",
+		"mold": "8106820",
+		"depth": "80.8",
+		"thread": "R15C"
+	},
+	{
+		"name": "Envase redondo conico 4ml ins PET",
+		"drawing": "C4294",
+		"mold": "8010405",
+		"depth": "50",
+		"thread": "R11A"
+	}
+]

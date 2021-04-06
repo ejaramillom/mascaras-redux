@@ -1,0 +1,3592 @@
+// moldes activos al mes 02.2021. se agrega el propietario.
+
+[
+	{
+		"property": "simex",
+		"name": "Tpv cuadrado delineador R11Dx62L",
+		"drawing": "C4118",
+		"mold": "0009",
+		"holder": "C052",
+		"cavity": "8",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "63",
+			"rodDiameter": "2.84",
+			"brushDiameter": "0.95"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "0009",
+				"drawing": "0009-1"
+			},
+			"pin": {
+				"mold": "0009",
+				"drawing": "2093-01"
+			},
+			"pinHolder": {
+				"mold": "0009",
+				"drawing": "0009-3"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "C5036",
+			"pa2": "C5071",
+			"pa3": "C5085",
+			"pa4": "C5201"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv cuadrado pestañina R11Dx43L",
+		"drawing": "C4029",
+		"mold": "0017",
+		"holder": "C052",
+		"cavity": "8",
+		"thread": "R11A",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "43.3",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "9833",
+				"drawing": "9833-1"
+			},
+			"pin": {
+				"mold": "STD-133",
+				"drawing": "STD-133"
+			},
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "C5037",
+			"pa2": "C5134",
+			"pa3": "C5147",
+			"pa4": "C5174"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv cuadrado lpg espbelto R11Dx50L",
+		"drawing": "C4273",
+		"mold": "0405",
+		"holder": "C052",
+		"cavity": "8",
+		"thread": "R11",
+		"gauge": "20",
+		"dimensions": {
+			"length": "50.7",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.6"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"externalCapsuleDiameter": "7",
+				"mold": "80062",
+				"drawing": "80062-09"
+			},
+			"pin": {
+				"mold": "80062-10",
+				"drawing": "80062-10"
+			},
+			"pinHolder": {
+				"mold": "80062",
+				"drawing": "80062-10"
+			},
+			"threadedCore": {
+				"mold": "80062",
+				"drawing": "80062-02"
+			},
+			"cavityInsert": {
+				"mold": "80062",
+				"drawing": "80062-12"
+			},
+			"cavity": {
+				"mold": "80062",
+				"drawing": "80062-01"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "C5148"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador R11Dx58L",
+		"drawing": "C4083",
+		"mold": "9905",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "57.9",
+			"rodDiameter": "2.84",
+			"brushDiameter": "0.95"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "9905",
+				"drawing": "71300"
+			},
+			"pin": {
+				"mold": "9905",
+				"drawing": "70208"
+			},
+			"pinHolder": {
+				"mold": "9905",
+				"drawing": "71301"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "C5022",
+			"pa2": "C5079"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo pestañina R11Dx56.4L",
+		"drawing": "C4248",
+		"mold": "0402",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R11A",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "56.7",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "0025",
+				"drawing": "2093-02"
+			},
+			"pin": {
+				"mold": "0025",
+				"drawing": "2092-12"
+			},
+			"pinHolder": {
+				"mold": "0025",
+				"drawing": "70614"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "C5088",
+			"pa2": "C5129",
+			"pa3": "C5165",
+			"pa4": "C5180",
+			"pa5": "C5202",
+			"pa6": "C5213"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador R11Dx40.5LxD1.05",
+		"drawing": "C4313",
+		"mold": "0507",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "40.5",
+			"rodDiameter": "2.84",
+			"brushDiameter": "0.95"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "0041",
+				"drawing": "70069"
+			},
+			"pin": {
+				"mold": "0507",
+				"drawing": "2094-08"
+			},
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "C5149"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador R11Dx40,5L DL05",
+		"drawing": "C4320",
+		"mold": "8013706",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R11A",
+		"gauge": "70",
+		"dimensions": {
+			"length": "40.5",
+			"rodDiameter": "2.84",
+			"brushDiameter": "1.21"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "0041",
+				"drawing": "70069"
+			},
+			"pin": {
+				"mold": "80137",
+				"drawing": "80137-01"
+			},
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "C5178"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo lpg brocha R11Dx30L",
+		"drawing": "2742",
+		"mold": "8026608",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "38.6",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.56"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80019",
+				"drawing": "80019-01"
+			},
+			"pin": {
+				"mold": "80266",
+				"drawing": "80266-20"
+			},
+			"pinHolder": {
+				"mold": "80019",
+				"drawing": "80019-03"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador punta plumon R11Dx58L",
+		"drawing": "2842",
+		"mold": "8035110",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R11",
+		"dimensions": {
+			"length": "57.9",
+			"rodDiameter": "2.84",
+			"brushDiameter": "1.65"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "9905",
+				"drawing": "2095-03"
+			},
+			"pin": {
+				"mold": "80351",
+				"drawing": "80351-21"
+			},
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo lpg gourmand R11Dx62L",
+		"drawing": "2852",
+		"mold": "8036010",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R11",
+		"dimensions": {
+			"length": "62.5",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.56"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80360",
+				"drawing": "80360-20"
+			},
+			"pin": {
+				"mold": "80360",
+				"drawing": "80360-21"
+			},
+			"pinHolder": {
+				"mold": "80360",
+				"drawing": "80360-21"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "9460",
+			"pa2": "9461"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador punta plumon R11Dx30L",
+		"drawing": "2889",
+		"mold": "8039010",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "30",
+			"rodDiameter": "2.84",
+			"brushDiameter": "1.65"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80056",
+				"drawing": "80056-01"
+			},
+			"pin": {
+				"mold": "STD-155",
+				"drawing": "STD-155"
+			},
+			"pinHolder": {
+				"mold": "80056",
+				"drawing": "80056-03"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo lpg R11Dx69.5L aplicador 40111-1",
+		"drawing": "2915",
+		"mold": "8043111",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "69.5",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.58"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80431",
+				"drawing": "80431-20"
+			},
+			"pin": {
+				"mold": "80431",
+				"drawing": "80431-21"
+			},
+			"pinHolder": {
+				"mold": "80431",
+				"drawing": "80431-21"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo pestañina R11Dx65L",
+		"drawing": "C4029",
+		"mold": "9832",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11",
+		"dimensions": {
+			"length": "65.6",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "9832",
+				"drawing": "71108"
+			},
+			"pin": {
+				"mold": "STD-133",
+				"drawing": "STD-133"
+			},
+			"pinHolder": {
+				"mold": "9832",
+				"drawing": "71109"
+			},
+			"threadedCore": "",
+			"cavityInsert": {
+				"mold": "9832",
+				"drawing": "70619"
+			},
+			"cavity": {
+				"mold": "9832",
+				"drawing": "70407"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "C5009",
+			"pa2": "C5067",
+			"pa3": "C5068",
+			"pa4": "C5069",
+			"pa5": "C5136",
+			"pa6": "C5163",
+			"pa7": "C5171",
+			"pa8": "C5207",
+			"pa9": "C5222",
+			"pa10": "C5233"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo pestañina R11Dx65LxR0.9",
+		"drawing": "C4281",
+		"mold": "0501",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11A",
+		"gauge": "18",
+		"dimensions": {
+			"length": "65.6",
+			"rodDiameter": "3.5",
+			"brushDiameter": "0.91"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "9832",
+				"drawing": "2094-09"
+			},
+			"pin": {
+				"mold": "STD-168",
+				"drawing": "STD-168"
+			},
+			"pinHolder": {
+				"mold": "9832",
+				"drawing": "71109"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "C5137",
+			"pa2": "C5206",
+			"pa3": "C5230",
+			"pa4": "C5240"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo pestañina R11Dx36L",
+		"drawing": "C4031",
+		"mold": "8006404",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "36.6",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"externalCapsuleDiameter": "7",
+				"mold": "80064",
+				"drawing": "80064-01"
+			},
+			"pin": {
+				"mold": "STD-133",
+				"drawing": "STD-133"
+			},
+			"pinHolder": {
+				"mold": "80064",
+				"drawing": "80064-02"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "C5008",
+			"pa2": "C5063",
+			"pa3": "C5097",
+			"pa4": "C5162"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo pestañina R11Dx20L",
+		"drawing": "C4236",
+		"mold": "8007804",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "20.5",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80078",
+				"drawing": "80078-01"
+			},
+			"pin": {
+				"mold": "80078",
+				"drawing": "80078-04"
+			},
+			"pinHolder": {
+				"mold": "80078",
+				"drawing": "80078-03"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "C5104",
+			"pa2": "C5140",
+			"pa3": "C5141",
+			"pa4": "C5150",
+			"pa5": "C5153",
+			"pa6": "C5154",
+			"pa7": "C5185",
+			"pa8": "C5203",
+			"pa9": "C5229",
+			"pa10": "C5235"
+		}
+	},
+	{
+		"property": "yanbal",
+		"name": "Tpv delineador yanbal manhattan R0.9",
+		"drawing": "2728",
+		"mold": "8025208",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11",
+		"gauge": "106-165",
+		"dimensions": {
+			"length": "50.1",
+			"rodDiameter": "2.8",
+			"brushDiameter": "0.95"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80168",
+				"drawing": "80168-22"
+			},
+			"pin": {
+				"mold": "80252",
+				"drawing": "80252-26"
+			},
+			"pinHolder": {
+				"mold": "80168",
+				"drawing": "80168-25"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo lpg R11Dx56L aplicador 40111-1",
+		"drawing": "2883",
+		"mold": "8038510",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11",
+		"gauge": "145",
+		"dimensions": {
+			"length": "56.9",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.5"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80063",
+				"drawing": "80063-01"
+			},
+			"pin": {
+				"mold": "80385",
+				"drawing": "80385-23"
+			},
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo lpg R11Dx27L aplicador 40111-1",
+		"drawing": "2909",
+		"mold": "8042210",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11",
+		"dimensions": {
+			"length": "27",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.58"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80172",
+				"drawing": "80172-17"
+			},
+			"pin": {
+				"mold": "80422",
+				"drawing": "80422-23"
+			},
+			"pinHolder": {
+				"mold": "80422",
+				"drawing": "80422-23"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo lpg R11Dx69.5L aplicador 40111-1",
+		"drawing": "2915",
+		"mold": "8043111",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "70.5",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.58"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80431",
+				"drawing": "80431-20"
+			},
+			"pin": {
+				"mold": "80431",
+				"drawing": "80431-21"
+			},
+			"pinHolder": {
+				"mold": "80431",
+				"drawing": "80431-21"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador R11Dx34L punta plumon",
+		"drawing": "2931",
+		"mold": "8045811",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11",
+		"dimensions": {
+			"length": "34",
+			"rodDiameter": "2.84",
+			"brushDiameter": "1.62"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80458",
+				"drawing": "80458-22"
+			},
+			"pin": {
+				"mold": "STD-155",
+				"drawing": "STD-155"
+			},
+			"pinHolder": {
+				"mold": "80458",
+				"drawing": "80458-23"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo lpg R11Dx35.5L aplicador 40111-1",
+		"drawing": "2945",
+		"mold": "8047111",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11",
+		"dimensions": {
+			"length": "35.5",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.58"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv ovalado pestañina cyzone innovacion 2010",
+		"drawing": "2818",
+		"mold": "8033409",
+		"holder": "8542215",
+		"cavity": "8",
+		"thread": "R13A",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "60",
+			"rodDiameter": "4.6",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80334",
+				"drawing": "80334-27"
+			},
+			"pin": {
+				"mold": "80334-25",
+				"drawing": "80334-25"
+			},
+			"pinHolder": {
+				"mold": "80334",
+				"drawing": "80334-34"
+			},
+			"threadedCore": "",
+			"cavityInsert": {
+				"mold": "80334",
+				"drawing": "80334-21"
+			},
+			"cavity": {
+				"mold": "80334",
+				"drawing": "80334-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo pestañina R13Dx60L",
+		"drawing": "2844",
+		"mold": "8035210",
+		"holder": "8542215",
+		"cavity": "8",
+		"thread": "R13",
+		"dimensions": {
+			"length": "59.8",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80222",
+				"drawing": "80222-01"
+			},
+			"pin": {
+				"mold": "STD-133",
+				"drawing": "STD-133"
+			},
+			"pinHolder": {
+				"mold": "80222",
+				"drawing": "80222-02"
+			},
+			"threadedCore": "",
+			"cavityInsert": {
+				"mold": "80352",
+				"drawing": "80352-21"
+			},
+			"cavity": {
+				"mold": "80352",
+				"drawing": "80352-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara colorfix 8g",
+		"drawing": "2859",
+		"mold": "8037510",
+		"holder": "8542215",
+		"cavity": "8",
+		"thread": "R13",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "50.2",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80375",
+				"drawing": "80375-27"
+			},
+			"pin": {
+				"mold": "STD-133",
+				"drawing": "STD-133"
+			},
+			"pinHolder": {
+				"mold": "80375",
+				"drawing": "80375-34"
+			},
+			"threadedCore": "",
+			"cavityInsert": {
+				"mold": "80375",
+				"drawing": "80375-21"
+			},
+			"cavity": {
+				"mold": "80375",
+				"drawing": "80375-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara cyzone innovacion 2012",
+		"drawing": "2919",
+		"mold": "8044111",
+		"holder": "8542215",
+		"cavity": "8",
+		"thread": "R13",
+		"gauge": "GACC-162",
+		"dimensions": {
+			"length": "57.7",
+			"rodDiameter": "4.6",
+			"brushDiameter": "2.82"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80441",
+				"drawing": "80441-27"
+			},
+			"pin": {
+				"mold": "80441",
+				"drawing": "80441-34"
+			},
+			"pinHolder": {
+				"mold": "80441",
+				"drawing": "80441-34"
+			},
+			"threadedCore": "",
+			"cavityInsert": {
+				"mold": "80441",
+				"drawing": "80441-21"
+			},
+			"cavity": {
+				"mold": "80441",
+				"drawing": "80441-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara anclaje lbel",
+		"drawing": "2956",
+		"mold": "8048312",
+		"holder": "8542215",
+		"cavity": "8",
+		"thread": "R13",
+		"dimensions": {
+			"length": "61.8",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.6"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80483",
+				"drawing": "80483-27"
+			},
+			"pin": {
+				"mold": "80483",
+				"drawing": "80483-34"
+			},
+			"pinHolder": {
+				"mold": "80483",
+				"drawing": "80483-34"
+			},
+			"threadedCore": "",
+			"cavityInsert": {
+				"mold": "80352",
+				"drawing": "80352-21"
+			},
+			"cavity": {
+				"mold": "80352",
+				"drawing": "80352-22"
+			}
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "none",
+		"name": "Tpv pestañina ovalado esika 2011",
+		"drawing": "C4161",
+		"mold": "8042910",
+		"holder": "85252",
+		"cavity": "16",
+		"thread": "R13A",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "67.1",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80429",
+				"drawing": "80429-26"
+			},
+			"pin": {
+				"mold": "80429",
+				"drawing": "80429-29"
+			},
+			"pinHolder": {
+				"mold": "80429",
+				"drawing": "80429-27"
+			},
+			"threadedCore": {
+				"mold": "80429",
+				"drawing": "80429-23"
+			},
+			"cavityInsert": {
+				"mold": "80429",
+				"drawing": "80429-21"
+			},
+			"cavity": {
+				"mold": "80429",
+				"drawing": "80429-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "C5076",
+			"pa2": "C5216"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv pestañina esika exhuberante 16 cavidades",
+		"drawing": "C4251",
+		"mold": "8045111",
+		"holder": "85252",
+		"cavity": "16",
+		"thread": "R13",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "63.5",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80451",
+				"drawing": "80451-26"
+			},
+			"pin": {
+				"mold": "80451",
+				"drawing": "80451-29"
+			},
+			"pinHolder": {
+				"mold": "80451",
+				"drawing": "80451-27"
+			},
+			"threadedCore": {
+				"mold": "80429",
+				"drawing": "80429-23"
+			},
+			"cavityInsert": {
+				"mold": "80429",
+				"drawing": "80429-21"
+			},
+			"cavity": {
+				"mold": "80429",
+				"drawing": "80429-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "C5077",
+			"pa2": "C5107",
+			"pa3": "C5113"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv lpg tango aplicador 40111-1",
+		"drawing": "2881",
+		"mold": "8038310",
+		"holder": "C076",
+		"cavity": "16",
+		"thread": "R12A",
+		"gauge": "145",
+		"dimensions": {
+			"length": "52.7",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.58"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80227",
+				"drawing": "80227-01"
+			},
+			"pin": {
+				"mold": "80383",
+				"drawing": "80383-23"
+			},
+			"pinHolder": {
+				"mold": "80383",
+				"drawing": "80383-23"
+			},
+			"threadedCore": "",
+			"cavityInsert": {
+				"mold": "80148",
+				"drawing": "80148-24"
+			},
+			"cavity": {
+				"mold": "80148",
+				"drawing": "80148-21"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "loreal",
+		"name": "Tpv mascara efecto total 6",
+		"drawing": "3227",
+		"mold": "8075216",
+		"holder": "8534813",
+		"cavity": "8",
+		"thread": "R15",
+		"dimensions": {
+			"length": "48.2",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.65"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8075216",
+				"drawing": "8075216-36"
+			},
+			"pin": {
+				"mold": "8075216",
+				"drawing": "8075216-37"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8059213",
+				"drawing": "8059213-23"
+			},
+			"cavityInsert": {
+				"mold": "8059213",
+				"drawing": "8059213-21"
+			},
+			"cavity": {
+				"mold": "8059213",
+				"drawing": "8059213-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9525"
+		}
+	},
+	{
+		"property": "loreal",
+		"name": "Tpv mascara vogue 10+",
+		"drawing": "3050",
+		"mold": "8059213",
+		"holder": "8534813",
+		"cavity": "8",
+		"thread": "R15",
+		"gauge": "GACC-24",
+		"dimensions": {
+			"length": "55",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.24"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8059213",
+				"drawing": "8059213-36"
+			},
+			"pin": {
+				"mold": "8059213",
+				"drawing": "8059213-37"
+			},
+			"pinHolder": {
+				"mold": "8059213",
+				"drawing": "8059213-71"
+			},
+			"threadedCore": {
+				"mold": "8059213",
+				"drawing": "8059213-23"
+			},
+			"cavityInsert": {
+				"mold": "8059213",
+				"drawing": "8059213-21"
+			},
+			"cavity": {
+				"mold": "8059213",
+				"drawing": "8059213-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9382",
+			"pa2": "9399"
+		}
+	},
+	{
+		"property": "soinco",
+		"name": "Tpv mascara vogue 10+ 2018",
+		"drawing": "3499",
+		"mold": "8094818",
+		"holder": "8534813",
+		"cavity": "8",
+		"thread": "R15C",
+		"gauge": "GACC-24",
+		"dimensions": {
+			"length": "55",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8059213",
+				"drawing": "8059213-36"
+			},
+			"pin": {
+				"mold": "8094818",
+				"drawing": "8094818-37"
+			},
+			"pinHolder": {
+				"mold": "8059213",
+				"drawing": "8059213-71"
+			},
+			"threadedCore": {
+				"mold": "8059213",
+				"drawing": "8059213-23"
+			},
+			"cavityInsert": {
+				"mold": "8059213",
+				"drawing": "8059213-21"
+			},
+			"cavity": {
+				"mold": "8059213",
+				"drawing": "8059213-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9398"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv cuadrado conico mascara R15Dx55.1L",
+		"drawing": "3539",
+		"mold": "8097318",
+		"holder": "8553518",
+		"cavity": "8",
+		"thread": "R15D",
+		"dimensions": {
+			"length": "55.07",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.82"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8097318",
+				"drawing": "8097318-22"
+			},
+			"pin": {
+				"mold": "8097318",
+				"drawing": "8097318-23"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8091818",
+				"drawing": "8091818-205"
+			},
+			"cavityInsert": {
+				"mold": "8091818",
+				"drawing": "8091818-102"
+			},
+			"cavity": {
+				"mold": "8091818",
+				"drawing": "8091818-101"
+			}
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador R11Dx34L PLU Ø2",
+		"drawing": "2979",
+		"mold": "8051012",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11",
+		"dimensions": {
+			"length": "34",
+			"rodDiameter": "3.5",
+			"brushDiameter": "2.12"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80510",
+				"drawing": "80510-22"
+			},
+			"pin": {
+				"mold": "80510",
+				"drawing": "80510-23"
+			},
+			"pinHolder": {
+				"mold": "80510",
+				"drawing": "80510-23"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "9347"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador R11x34L PIN NAC",
+		"drawing": "2980",
+		"mold": "8051112",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11",
+		"gauge": "148",
+		"dimensions": {
+			"length": "34",
+			"rodDiameter": "2.84",
+			"brushDiameter": "1.05"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80458",
+				"drawing": "80458-22"
+			},
+			"pin": {
+				"mold": "8051112",
+				"drawing": "1900-01"
+			},
+			"pinHolder": {
+				"mold": "80458",
+				"drawing": "80458-23"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "9348"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador R11x34L PIN ASIA",
+		"drawing": "2981",
+		"mold": "8051212",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "34",
+			"rodDiameter": "2.84",
+			"brushDiameter": "1.18"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80458",
+				"drawing": "80458-22"
+			},
+			"pin": {
+				"mold": "8051212",
+				"drawing": "1900-01"
+			},
+			"pinHolder": {
+				"mold": "80458",
+				"drawing": "80458-23"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "9349"
+		}
+	},
+	{
+		"property": "none",
+		"name": "Tpv redondo pestañina R13Dx65.5L LC",
+		"drawing": "2987",
+		"mold": "8051712",
+		"holder": "8542215",
+		"cavity": "8",
+		"thread": "R13",
+		"gauge": "18",
+		"dimensions": {
+			"length": "65.5",
+			"rodDiameter": "4.3",
+			"brushDiameter": "0.93"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80517",
+				"drawing": "80517-27"
+			},
+			"pin": {
+				"mold": "STD-168",
+				"drawing": "STD-168"
+			},
+			"pinHolder": {
+				"mold": "80517",
+				"drawing": "80517-34"
+			},
+			"threadedCore": "",
+			"cavityInsert": {
+				"mold": "80352",
+				"drawing": "1900-01"
+			},
+			"cavity": {
+				"mold": "80352",
+				"drawing": "1900-01"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9338"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv cuadrado conico mascara R15Dx55.8L",
+		"drawing": "3540",
+		"mold": "8097518",
+		"holder": "8553518",
+		"cavity": "8",
+		"thread": "R15D",
+		"dimensions": {
+			"length": "55.8",
+			"rodDiameter": "5.6",
+			"brushDiameter": "2.82"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8097518",
+				"drawing": "8097518-22"
+			},
+			"pin": {
+				"mold": "8097518",
+				"drawing": "8097518-23"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8091818",
+				"drawing": "8091818-205"
+			},
+			"cavityInsert": {
+				"mold": "8097518",
+				"drawing": "8097518-21"
+			},
+			"cavity": {
+				"mold": "8091818",
+				"drawing": "8091818-101"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9753"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara CZ SECRET LASH CEPILLO QZ-02",
+		"drawing": "3006",
+		"mold": "8054813",
+		"holder": "85085",
+		"cavity": "16",
+		"thread": "R11",
+		"dimensions": {
+			"length": "20.5",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.56"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8054813",
+				"drawing": "8054813-22"
+			},
+			"pin": {
+				"mold": "8054813",
+				"drawing": "8054813-21"
+			},
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv labial nuevo formato 2014",
+		"drawing": "3040",
+		"mold": "8058913",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R13A",
+		"dimensions": {
+			"length": "55",
+			"rodDiameter": "4.9",
+			"brushDiameter": "2.6"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8058913",
+				"drawing": "8058913-26"
+			},
+			"pin": {
+				"mold": "8058913",
+				"drawing": "8058913-27"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "80399",
+				"drawing": "80399-23"
+			},
+			"cavityInsert": {
+				"mold": "8058913",
+				"drawing": "8058913-21"
+			},
+			"cavity": {
+				"mold": "8058913",
+				"drawing": "8058913-22"
+			}
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv lpg cyzone innovacion 2014",
+		"drawing": "3060",
+		"mold": "8060913",
+		"holder": "C076",
+		"cavity": "16",
+		"thread": "R12B",
+		"dimensions": {
+			"length": "51.4",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.58"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8060913",
+				"drawing": "8060913-25"
+			},
+			"pin": {
+				"mold": "8060913",
+				"drawing": "8060913-26"
+			},
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": {
+				"mold": "80156",
+				"drawing": "80156-24"
+			},
+			"cavity": {
+				"mold": "80156",
+				"drawing": "80156-21"
+			}
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara volumen lbel",
+		"drawing": "3121",
+		"mold": "8065614",
+		"holder": "8542215",
+		"cavity": "8",
+		"thread": "R13",
+		"dimensions": {
+			"length": "69.4",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.57"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8065614",
+				"drawing": "8065614-27"
+			},
+			"pin": {
+				"mold": "8065614",
+				"drawing": "8065614-34"
+			},
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": {
+				"mold": "8065614",
+				"drawing": "8065614-21"
+			},
+			"cavity": {
+				"mold": "8065614",
+				"drawing": "8065614-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9424",
+			"pa2": "9425"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv mascara megacils lbel",
+		"drawing": "3122",
+		"mold": "8065914",
+		"holder": "8542215",
+		"cavity": "8",
+		"thread": "R13",
+		"dimensions": {
+			"length": "72.6",
+			"rodDiameter": "4.3",
+			"brushDiameter": "0.96"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8065914",
+				"drawing": "8065914-27"
+			},
+			"pin": {
+				"mold": "STD-168",
+				"drawing": "STD-168"
+			},
+			"pinHolder": {
+				"mold": "8065914",
+				"drawing": "8065914-34"
+			},
+			"threadedCore": "",
+			"cavityInsert": {
+				"mold": "8065614",
+				"drawing": "8065614-21"
+			},
+			"cavity": {
+				"mold": "8065614",
+				"drawing": "8065614-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9427"
+		}
+	},
+	{
+		"property": "soinco",
+		"name": "Tpv ariane cepillo D2.82x26.3L",
+		"drawing": "3228",
+		"mold": "8074016",
+		"holder": "8534813",
+		"cavity": "8",
+		"thread": "R15",
+		"dimensions": {
+			"length": "57",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.82"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8074016",
+				"drawing": "8074016-36"
+			},
+			"pin": {
+				"mold": "8074016",
+				"drawing": "8074016-37"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8059213",
+				"drawing": "8059213-23"
+			},
+			"cavityInsert": {
+				"mold": "8066614",
+				"drawing": "80399-21"
+			},
+			"cavity": {
+				"mold": "8066614",
+				"drawing": "8066614-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9524"
+		}
+	},
+	{
+		"property": "soinco",
+		"name": "Tpv mascara ariane",
+		"drawing": "3095",
+		"mold": "8066614",
+		"holder": "8534813",
+		"cavity": "8",
+		"thread": "R15",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "59.3",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.24"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8066614",
+				"drawing": "8066614-36"
+			},
+			"pin": {
+				"mold": "8066614",
+				"drawing": "8066614-37"
+			},
+			"pinHolder": {
+				"mold": "8066614",
+				"drawing": "8066614-38"
+			},
+			"threadedCore": {
+				"mold": "8059213",
+				"drawing": "8059213-23"
+			},
+			"cavityInsert": {
+				"mold": "8066614",
+				"drawing": "8066614-21"
+			},
+			"cavity": {
+				"mold": "8066614",
+				"drawing": "8066614-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9403"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara lash power cc 2015",
+		"drawing": "3132",
+		"mold": "8066414",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R13A",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "61.7",
+			"rodDiameter": "5.6",
+			"brushDiameter": "1.24"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8066414",
+				"drawing": "8066414-30"
+			},
+			"pin": {
+				"mold": "8066414",
+				"drawing": "8066414-30"
+			},
+			"pinHolder": {
+				"mold": "8066414",
+				"drawing": "8066414-32"
+			},
+			"threadedCore": {
+				"mold": "80399",
+				"drawing": "80399-23"
+			},
+			"cavityInsert": {
+				"mold": "80399",
+				"drawing": "80399-21"
+			},
+			"cavity": {
+				"mold": "8066414",
+				"drawing": "8066414-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9429"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara esika pro",
+		"drawing": "3145",
+		"mold": "8067515",
+		"holder": "C020",
+		"cavity": "8",
+		"thread": "R15B",
+		"gauge": "GACC-162",
+		"dimensions": {
+			"length": "61",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.82"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8067515",
+				"drawing": "8067515-31"
+			},
+			"pin": {
+				"mold": "8067515",
+				"drawing": "8067515-34"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "80346",
+				"drawing": "80346-23"
+			},
+			"cavityInsert": {
+				"mold": "80453",
+				"drawing": "80453-21"
+			},
+			"cavity": {
+				"mold": "80346",
+				"drawing": "80346-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9433"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara esika C16 2016",
+		"drawing": "3253",
+		"mold": "8075816",
+		"holder": "8540015",
+		"cavity": "8",
+		"thread": "R15B",
+		"gauge": "GACC-162",
+		"dimensions": {
+			"length": "62.76",
+			"rodDiameter": "5.6",
+			"brushDiameter": "2.82"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8075816",
+				"drawing": "8075816-31"
+			},
+			"pin": {
+				"mold": "8075816",
+				"drawing": "8075816-34"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "80346",
+				"drawing": "80346-23"
+			},
+			"cavityInsert": {
+				"mold": "8075816",
+				"drawing": "8075816-21"
+			},
+			"cavity": {
+				"mold": "80346",
+				"drawing": "80346-22"
+			}
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara alargadora 2016",
+		"drawing": "3252",
+		"mold": "8075716",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R13A",
+		"dimensions": {
+			"length": "50.3",
+			"rodDiameter": "5.6",
+			"brushDiameter": "2.75"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8075716",
+				"drawing": "8075716-30"
+			},
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "80399",
+				"drawing": "80399-23"
+			},
+			"cavityInsert": {
+				"mold": "80399",
+				"drawing": "80399-21"
+			},
+			"cavity": {
+				"mold": "8066414",
+				"drawing": "8066414-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9572",
+			"pa2": "9573",
+			"pa3": "9574"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara esika P4",
+		"drawing": "3001",
+		"mold": "8054313",
+		"holder": "C020",
+		"cavity": "8",
+		"thread": "R15B",
+		"dimensions": {
+			"length": "64",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.6"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80543",
+				"drawing": "80543-31"
+			},
+			"pin": {
+				"mold": "80543",
+				"drawing": "80543-34"
+			},
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "9306"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo pestañina R15Dx66L",
+		"drawing": "C4002",
+		"mold": "9818",
+		"holder": "C020",
+		"cavity": "8",
+		"thread": "R15A",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "65.7",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "9818",
+				"drawing": "2138-11"
+			},
+			"pin": {
+				"mold": "9818",
+				"drawing": "2138-11"
+			},
+			"pinHolder": {
+				"mold": "9818",
+				"drawing": "87296"
+			},
+			"threadedCore": "",
+			"cavityInsert": {
+				"mold": "9818",
+				"drawing": "9818-19"
+			},
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "C5004",
+			"pa2": "C5158",
+			"pa3": "C5161"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara multibeneficios lbel C6-2017",
+		"drawing": "3265",
+		"mold": "8077216",
+		"holder": "C026",
+		"cavity": "12",
+		"thread": "R13",
+		"gauge": "GACC-145",
+		"dimensions": {
+			"length": "69.1",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.58"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8077216",
+				"drawing": "8077216-36"
+			},
+			"pin": {
+				"mold": "8077216",
+				"drawing": "8077216-37"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8542215",
+				"drawing": "8542216-42"
+			},
+			"cavityInsert": {
+				"mold": "8065614",
+				"drawing": "8065614-21"
+			},
+			"cavity": {
+				"mold": "8065614",
+				"drawing": "8065614-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9595"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv pestañina uniquecil 2016",
+		"drawing": "3294",
+		"mold": "8078416",
+		"holder": "C052",
+		"cavity": "8",
+		"thread": "R11A",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "56.7",
+			"rodDiameter": "4.4",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"externalCapsuleDiameter": "7",
+				"mold": "8078416",
+				"drawing": "8078416-31"
+			},
+			"pin": {
+				"mold": "8078416",
+				"drawing": "8078416-34"
+			},
+			"pinHolder": {
+				"mold": "8078416",
+				"drawing": "8078416-36"
+			},
+			"threadedCore": {
+				"mold": "80062",
+				"drawing": "80062-02"
+			},
+			"cavityInsert": {
+				"mold": "9823",
+				"drawing": "9823-35"
+			},
+			"cavity": {
+				"mold": "8078416",
+				"drawing": "8078416-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9601",
+			"pa2": "9602"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv cuadrado lpg R11Dx56L aplicador 50024",
+		"drawing": "3295",
+		"mold": "8079516",
+		"holder": "C052",
+		"cavity": "8",
+		"thread": "R11A",
+		"gauge": "GACC-145",
+		"dimensions": {
+			"length": "56.9",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.58"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8006304",
+				"drawing": "8006304-01"
+			},
+			"pin": {
+				"mold": "8038510",
+				"drawing": "8038510-23"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8006204",
+				"drawing": "8006204-02"
+			},
+			"cavityInsert": {
+				"mold": "9823",
+				"drawing": "9823-35"
+			},
+			"cavity": {
+				"mold": "9833",
+				"drawing": "9833-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9612"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv cuadrado lpg R11Dx56L aplicador 50024",
+		"drawing": "3303",
+		"mold": "8077416",
+		"holder": "8537414",
+		"cavity": "8",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "56.7",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.62"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8006304",
+				"drawing": "8006304-01"
+			},
+			"pin": {
+				"mold": "8038510",
+				"drawing": "8038510-23"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8537414",
+				"drawing": "8537414-42"
+			},
+			"cavityInsert": {
+				"mold": "8077416",
+				"drawing": "8077416-40"
+			},
+			"cavity": {
+				"mold": "8077416",
+				"drawing": "8077416-43"
+			}
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo R11DX63L 8 cavidades PP",
+		"drawing": "3306",
+		"mold": "8077516",
+		"holder": "8537414",
+		"cavity": "8",
+		"thread": "R11A",
+		"dimensions": "",
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8051412",
+				"drawing": "8051412-22"
+			},
+			"pin": {
+				"mold": "8051412",
+				"drawing": "8051412-21"
+			},
+			"pinHolder": {
+				"mold": "8051412",
+				"drawing": "8051412-23"
+			},
+			"threadedCore": {
+				"mold": "8537414",
+				"drawing": "8537414-42"
+			},
+			"cavityInsert": {
+				"mold": "8077416",
+				"drawing": "8077416-40"
+			},
+			"cavity": {
+				"mold": "8077416",
+				"drawing": "8077416-43"
+			}
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo R11DX56.4L PP",
+		"drawing": "3307",
+		"mold": "8077616",
+		"holder": "8537414",
+		"cavity": "8",
+		"thread": "R11A",
+		"dimensions": "",
+		"versionAssembly": {
+			"capsule": {
+				"mold": "0025",
+				"drawing": "2093-02"
+			},
+			"pin": {
+				"mold": "0025",
+				"drawing": "2092-12"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8537414",
+				"drawing": "8537414-42"
+			},
+			"cavityInsert": {
+				"mold": "8077416",
+				"drawing": "8077416-40"
+			},
+			"cavity": {
+				"mold": "8077416",
+				"drawing": "8077416-43"
+			}
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv cuadrado esbelto lpg R11Dx50L",
+		"drawing": "3310",
+		"mold": "8080316",
+		"holder": "C052",
+		"cavity": "8",
+		"thread": "R11A",
+		"gauge": "GACC-145",
+		"dimensions": {
+			"length": "50.7",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.58"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8006204",
+				"drawing": "8006204-09"
+			},
+			"pin": {
+				"mold": "8038510",
+				"drawing": "8038510-23"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8006204",
+				"drawing": "8006204-02"
+			},
+			"cavityInsert": {
+				"mold": "9823",
+				"drawing": "9823-35"
+			},
+			"cavity": {
+				"mold": "9823",
+				"drawing": "9823-34"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9622"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo lpg R11Dx31.5L",
+		"drawing": "3370",
+		"mold": "8085817",
+		"holder": "8542915",
+		"cavity": "16",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "31.5",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.58"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"externalCapsuleDiameter": "7",
+				"mold": "8085817",
+				"drawing": "8085817-22"
+			},
+			"pin": {
+				"mold": "8085817",
+				"drawing": "8085817-23"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8542915",
+				"drawing": "8542915-42"
+			},
+			"cavityInsert": {
+				"mold": "8542915",
+				"drawing": "8542915-40"
+			},
+			"cavity": {
+				"mold": "8542915",
+				"drawing": "8542915-43"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9657",
+			"pa2": "9658"
+		}
+	},
+	{
+		"property": "none",
+		"name": "Tpv redondo lpg R11Dx51.1L aplicador 40111-1",
+		"drawing": "3372",
+		"mold": "8086417",
+		"holder": "8537414",
+		"cavity": "8",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "51.5",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.58"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8006204",
+				"drawing": "8006204-09"
+			},
+			"pin": {
+				"mold": "8080316",
+				"drawing": "8080316-23"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8537414",
+				"drawing": "8537414-42"
+			},
+			"cavityInsert": {
+				"mold": "8537414",
+				"drawing": "8537414-40"
+			},
+			"cavity": {
+				"mold": "8537414",
+				"drawing": "8537414-43"
+			}
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo plumon R11Dx40.8LxD2.08",
+		"drawing": "3412",
+		"mold": "8089117",
+		"holder": "8542915",
+		"cavity": "16",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "40.8",
+			"rodDiameter": "3.5",
+			"brushDiameter": "2.08"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"externalCapsuleDiameter": "7",
+				"mold": "8089117",
+				"drawing": "8089117-22"
+			},
+			"pin": {
+				"mold": "8089117",
+				"drawing": "8089117-23"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8542915",
+				"drawing": "8542915-42"
+			},
+			"cavityInsert": {
+				"mold": "8542915",
+				"drawing": "8542915-40"
+			},
+			"cavity": {
+				"mold": "8542915",
+				"drawing": "8542915-43"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9697"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo pestañina R11Dx20.3LxD2.82",
+		"drawing": "3413",
+		"mold": "8089017",
+		"holder": "8542915",
+		"cavity": "16",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "20.3",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.82"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"externalCapsuleDiameter": "7",
+				"mold": "8089017",
+				"drawing": "8089017-21"
+			},
+			"pin": {
+				"mold": "8089017",
+				"drawing": "8089017-22"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8542915",
+				"drawing": "8542915-42"
+			},
+			"cavityInsert": {
+				"mold": "8542915",
+				"drawing": "8542915-40"
+			},
+			"cavity": {
+				"mold": "8542915",
+				"drawing": "8542915-43"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9697"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo pestañina R11Dx42LxØ1.2 PP",
+		"drawing": "3401",
+		"mold": "8092618",
+		"holder": "8537414",
+		"cavity": "8",
+		"thread": "R11A",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "42.65",
+			"rodDiameter": "3.5",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8051512",
+				"drawing": "8051512-22"
+			},
+			"pin": {
+				"mold": "8051512",
+				"drawing": "8051512-21"
+			},
+			"pinHolder": {
+				"mold": "8051512",
+				"drawing": "8051512-23"
+			},
+			"threadedCore": {
+				"mold": "8537414",
+				"drawing": "8537414-42"
+			},
+			"cavityInsert": {
+				"mold": "8077416",
+				"drawing": "8077416-40"
+			},
+			"cavity": {
+				"mold": "8077416",
+				"drawing": "8077416-43"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9686"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv cuadrado cilindrico R13Dx69.1L",
+		"drawing": "3501",
+		"mold": "8095018",
+		"holder": "8542215/C036",
+		"cavity": "8",
+		"thread": "R13A",
+		"gauge": "GACC-226",
+		"dimensions": {
+			"length": "69.1",
+			"rodDiameter": "4.6",
+			"brushDiameter": "2.65"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8095018",
+				"drawing": "8095018-22"
+			},
+			"pin": {
+				"mold": "8095018",
+				"drawing": "8095018-37"
+			},
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": {
+				"mold": "8065614",
+				"drawing": "8065614-21"
+			},
+			"cavity": {
+				"mold": "8065614",
+				"drawing": "8065614-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9731"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo cilindrico R11Dx55.7L",
+		"drawing": "3507",
+		"mold": "8095118",
+		"holder": "8542915",
+		"cavity": "16",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "55.7",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.79"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"externalCapsuleDiameter": "7",
+				"mold": "8095118",
+				"drawing": "8095118-22"
+			},
+			"pin": {
+				"mold": "8095118",
+				"drawing": "8095118-23"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8542915",
+				"drawing": "8542915-42"
+			},
+			"cavityInsert": {
+				"mold": "8542915",
+				"drawing": "8542915-40"
+			},
+			"cavity": {
+				"mold": "8542915",
+				"drawing": "8542915-43"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9736",
+			"pa2": "9740"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo conico R13Dx60.6L",
+		"drawing": "3508",
+		"mold": "8095318",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R13A",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "52.7",
+			"rodDiameter": "4.3",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8095318",
+				"drawing": "8095318-31"
+			},
+			"pin": {
+				"mold": "8095318",
+				"drawing": "8095318-30"
+			},
+			"pinHolder": {
+				"mold": "8095318",
+				"drawing": "8095318-32"
+			},
+			"threadedCore": {
+				"mold": "8039910",
+				"drawing": "8039910-23"
+			},
+			"cavityInsert": {
+				"mold": "8095318",
+				"drawing": "8095318-21"
+			},
+			"cavity": {
+				"mold": "8066414",
+				"drawing": "8066414-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9737",
+			"pa2": "9738"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo pestañina R15Dx66L",
+		"drawing": "2851",
+		"mold": "8036110",
+		"holder": "C020",
+		"cavity": "8",
+		"thread": "R15A",
+		"gauge": "92",
+		"dimensions": {
+			"length": "65.7",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.46"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80361",
+				"drawing": "80361-22"
+			},
+			"pin": {
+				"mold": "80361",
+				"drawing": "80361-38"
+			},
+			"pinHolder": {
+				"mold": "80361",
+				"drawing": "80361-22"
+			},
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": {
+			"pa1": "-"
+		}
+	},
+	{
+		"property": "loreal",
+		"name": "Tpv redondo lpg R11Dx35.5L PP",
+		"drawing": "3553",
+		"mold": "8098518",
+		"holder": "8537414",
+		"cavity": "8",
+		"thread": "R11A",
+		"gauge": "GACC-145",
+		"dimensions": {
+			"length": "35.5",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.58"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8021007",
+				"drawing": "8021007-01"
+			},
+			"pin": {
+				"mold": "8043011",
+				"drawing": "8043011-23"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8537414",
+				"drawing": "8537414-42"
+			},
+			"cavityInsert": {
+				"mold": "8077416",
+				"drawing": "8077416-40"
+			},
+			"cavity": {
+				"mold": "8077416",
+				"drawing": "8077416-43"
+			}
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador plumon R11Dx40.5L 2016",
+		"drawing": "3311",
+		"mold": "8080616",
+		"holder": "8537414",
+		"cavity": "8",
+		"thread": "R11A",
+		"gauge": "GACC-97",
+		"dimensions": {
+			"length": "40.9",
+			"rodDiameter": "2.8",
+			"brushDiameter": "1.7"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "80168",
+				"drawing": "80168-22"
+			},
+			"pin": {
+				"mold": "STD-155",
+				"drawing": "STD-155"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8537414",
+				"drawing": "8537414-42"
+			},
+			"cavityInsert": {
+				"mold": "8077416",
+				"drawing": "877416-40"
+			},
+			"cavity": {
+				"mold": "8077416",
+				"drawing": "8077416-43"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9623",
+			"pa2": "9667",
+			"pa3": "9770"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo cilindrico mascara R11Dx50.6L",
+		"drawing": "3562",
+		"mold": "8099019",
+		"holder": "8542915",
+		"cavity": "16",
+		"thread": "R11A",
+		"gauge": "GACC-358",
+		"dimensions": {
+			"length": "50.6",
+			"rodDiameter": "3.5",
+			"brushDiameter": "1.2"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"externalCapsuleDiameter": "7",
+				"mold": "8099019",
+				"drawing": "1900-01"
+			},
+			"pin": {
+				"mold": "8099019",
+				"drawing": "1900-01"
+			},
+			"pinHolder": {
+				"mold": "8099019",
+				"drawing": "1900-01"
+			},
+			"threadedCore": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			},
+			"cavityInsert": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			},
+			"cavity": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			}
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo lpg R11DX26.7L",
+		"drawing": "3595",
+		"mold": "8100619",
+		"holder": "8542915",
+		"cavity": "16",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "26.7",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.76"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"externalCapsuleDiameter": "7",
+				"mold": "8100619",
+				"drawing": "1900-01"
+			},
+			"pin": {
+				"mold": "8100619",
+				"drawing": "1900-01"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			},
+			"cavityInsert": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			},
+			"cavity": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9804",
+			"pa2": "9805"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv volumania curve 2020",
+		"drawing": "3601",
+		"mold": "8101619",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R13A",
+		"dimensions": {
+			"length": "59.4",
+			"rodDiameter": "5.6",
+			"brushDiameter": "1.38"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8101619",
+				"drawing": "8101619-31"
+			},
+			"pin": {
+				"mold": "8101619",
+				"drawing": "8101619-30"
+			},
+			"pinHolder": {
+				"mold": "8101619",
+				"drawing": "8101619-32"
+			},
+			"threadedCore": {
+				"mold": "8039910",
+				"drawing": "8039910-23"
+			},
+			"cavityInsert": {
+				"mold": "8101619",
+				"drawing": "8101619-21"
+			},
+			"cavity": {
+				"mold": "8101619",
+				"drawing": "8101619-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9808"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo conico R13Dx53L",
+		"drawing": "3611",
+		"mold": "8101719",
+		"holder": "85048",
+		"cavity": "8",
+		"thread": "R13A",
+		"gauge": "GACC-285",
+		"dimensions": {
+			"length": "53",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.7"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"mold": "8101719",
+				"drawing": "8101719-31"
+			},
+			"pin": {
+				"mold": "8101719",
+				"drawing": "8101719-32"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8039910",
+				"drawing": "8039910-23"
+			},
+			"cavityInsert": {
+				"mold": "8095318",
+				"drawing": "8095318-21"
+			},
+			"cavity": {
+				"mold": "8066414",
+				"drawing": "8066414-22"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9816",
+			"pa2": "9817"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo cilindrico mascara R11DX39L",
+		"drawing": "3652",
+		"mold": "8105219",
+		"holder": "8542915",
+		"cavity": "16",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "39.13",
+			"rodDiameter": "3.5",
+			"brushDiameter": "1.3"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"externalCapsuleDiameter": "7",
+				"mold": "8105219",
+				"drawing": "8105219-22"
+			},
+			"pin": {
+				"drawing": "STD-221"
+			},
+			"pinHolder": {
+				"mold": "8105219",
+				"drawing": "8105219-23"
+			},
+			"threadedCore": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			},
+			"cavityInsert": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			},
+			"cavity": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9842",
+			"pa2": "9843"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo lpg R11DX35L aplicador 50387",
+		"drawing": "3643",
+		"mold": "8104419",
+		"holder": "8542915",
+		"cavity": "16",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "35",
+			"rodDiameter": "4.6",
+			"brushDiameter": "2.65"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"externalCapsuleDiameter": "7",
+				"mold": "8104419",
+				"drawing": "1900-01"
+			},
+			"pin": {
+				"mold": "8104419",
+				"drawing": "1900-01"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			},
+			"cavityInsert": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			},
+			"cavity": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9839",
+			"pa2": "9840"
+		}
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo lpg R11DX30.5L aplicador SX1K201",
+		"drawing": "3644",
+		"mold": "8104519",
+		"holder": "8542915",
+		"cavity": "16",
+		"thread": "R11A",
+		"dimensions": {
+			"length": "30.5",
+			"rodDiameter": "4.3",
+			"brushDiameter": "2.76"
+		},
+		"versionAssembly": {
+			"capsule": {
+				"externalCapsuleDiameter": "7",
+				"mold": "8104519",
+				"drawing": "1900-01"
+			},
+			"pin": {
+				"mold": "8104519",
+				"drawing": "1900-01"
+			},
+			"pinHolder": "",
+			"threadedCore": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			},
+			"cavityInsert": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			},
+			"cavity": {
+				"mold": "8542915",
+				"drawing": "1900-02"
+			}
+		},
+		"productAssemblies": {
+			"pa1": "9839",
+			"pa2": "9840"
+		}
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo cepillo inyectado R15Dx66LxD2.82",
+		"mold": "8087817",
+		"holder": "C020",
+		"thread": "R15D",
+		"dimensions": {
+			"length": "66",
+			"rodDiameter": "2.82",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv multibeneficios lbel C6 2017",
+		"mold": "8077216",
+		"thread": "Rxx",
+		"dimensions": {
+			"length": "1",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara megacils lbel",
+		"mold": "8065914",
+		"thread": "Rxx",
+		"dimensions": {
+			"length": "1",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv cuadrado cilindrico R13DX69.1L",
+		"mold": "8095018",
+		"thread": "R13",
+		"dimensions": {
+			"length": "69.1",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "none",
+		"name": "Tpv redondo R11DX50L aplicador 40111-1 PP",
+		"mold": "8082817",
+		"holder": "8537414",
+		"thread": "R11",
+		"dimensions": {
+			"length": "50",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "none",
+		"name": "Tpv lpg crt esperanza espejo",
+		"mold": "8072115",
+		"holder": "8537414",
+		"thread": "Rxx",
+		"dimensions": {
+			"length": "1",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo pestañina R11DX42L",
+		"mold": "8051512",
+		"holder": "8537414",
+		"thread": "Rxx",
+		"dimensions": {
+			"length": "42",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador R11Dx63L",
+		"mold": "8051412",
+		"holder": "8537414",
+		"thread": "R11",
+		"dimensions": {
+			"length": "63",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador R11Dx30L ppl",
+		"drawing": "2889",
+		"mold": "8039010",
+		"holder": "8537414",
+		"thread": "R11",
+		"dimensions": {
+			"length": "30",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador R11Dx40.5L",
+		"drawing": "C4313",
+		"mold": "0507",
+		"holder": "8537414",
+		"thread": "R11",
+		"dimensions": {
+			"length": "40.5",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo pestañina R11Dx65LxD0.9",
+		"drawing": "C4281",
+		"mold": "0501",
+		"holder": "8537414",
+		"thread": "R11",
+		"dimensions": {
+			"length": "65",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv pestañina R11Dx56.4L exhuberante",
+		"drawing": "C4248",
+		"mold": "0402",
+		"holder": "8537414",
+		"thread": "R11",
+		"dimensions": {
+			"length": "56.4",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo pestañina brocha R11Dx30L",
+		"drawing": "2742",
+		"mold": "8026608",
+		"holder": "8537414",
+		"thread": "R11",
+		"dimensions": {
+			"length": "30",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo delineador R11Dx40.5L",
+		"drawing": "C4320",
+		"mold": "8013706",
+		"holder": "8537414",
+		"thread": "R11",
+		"dimensions": {
+			"length": "40.5",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo lpg R11DX69.5L ap",
+		"drawing": "2915",
+		"mold": "8043111",
+		"holder": "8537414",
+		"thread": "R11",
+		"dimensions": {
+			"length": "69.5",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara tratante esika P4",
+		"mold": "8083917",
+		"holder": "8540015",
+		"thread": "Rxx",
+		"dimensions": {
+			"length": "1",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara esika innovacion 2012",
+		"mold": "8072816",
+		"holder": "8540015",
+		"thread": "Rxx",
+		"dimensions": {
+			"length": "1",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara esika pro",
+		"drawing": "3145",
+		"mold": "8067515",
+		"holder": "8540015",
+		"thread": "Rxx",
+		"dimensions": {
+			"length": "1",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv mascara esika P4 cepillo QZ-05",
+		"drawing": "3001",
+		"mold": "8054313",
+		"holder": "8540015",
+		"thread": "Rxx",
+		"dimensions": {
+			"length": "1",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo cilindrico mascara R11Dx39L",
+		"mold": "8105219",
+		"holder": "8542915",
+		"thread": "R11",
+		"dimensions": {
+			"length": "39",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv redondo cilindrico mascara R11Dx56.6L",
+		"mold": "8097718",
+		"holder": "8542915",
+		"thread": "R11",
+		"dimensions": {
+			"length": "56.6",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv cyzone sec las cepillo QZ-02",
+		"mold": "8054813",
+		"holder": "8542915",
+		"thread": "Rxx",
+		"dimensions": {
+			"length": "1",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo R11Dx34L pin asia",
+		"mold": "8051212",
+		"holder": "8542915",
+		"thread": "R11",
+		"dimensions": {
+			"length": "34",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo R11Dx34LxD2",
+		"mold": "8051012",
+		"holder": "8542915",
+		"thread": "R11",
+		"dimensions": {
+			"length": "34",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "none",
+		"name": "Tpv lpg R11DX35.5L aplicador 401",
+		"mold": "8047111",
+		"holder": "8542915",
+		"thread": "R11",
+		"dimensions": {
+			"length": "35.5",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "simex",
+		"name": "Tpv redondo lpg R11DX56L aplicador 40111",
+		"mold": "8038510",
+		"holder": "8542915",
+		"thread": "R11",
+		"dimensions": {
+			"length": "56",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv early 2018",
+		"mold": "8091818",
+		"holder": "8553518",
+		"thread": "Rxx",
+		"dimensions": {
+			"length": "1",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+	{
+		"property": "belcorp",
+		"name": "Tpv cuadrado mascara R15Dx51.2L",
+		"mold": "8097618",
+		"holder": "8553518",
+		"thread": "R15",
+		"dimensions": {
+			"length": "51.2",
+			"rodDiameter": "1",
+			"brushDiameter": "1"
+		},
+		"versionAssembly": {
+			"capsule": "",
+			"pin": "",
+			"pinHolder": "",
+			"threadedCore": "",
+			"cavityInsert": "",
+			"cavity": ""
+		},
+		"productAssemblies": ""
+	},
+]
